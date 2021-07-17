@@ -1,4 +1,4 @@
-# two-motors
+# control two DC motors
 
 The L293D is a dual-channel H-Bridge motor driver capable of driving a pair of DC motors or
 one stepper motor .That means it can individually drive up to two motors
